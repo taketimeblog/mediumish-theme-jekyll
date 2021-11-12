@@ -14,17 +14,17 @@ permalink: /:title/
 
 # Authors
 authors: "Take Time Agency"
-  sal:
-    name: Sal
-    display_name: Sal
+  Take Time Agency:
+    name: Take Time Agency
+    display_name: Take Time Agency
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: tranxuananh.cdtk7@gmail.com
     web: https://taketime.agency
     twitter: https://twitter.com/
     description: "Creative Blog by Take Time Agency, Take Time Agency is a digital product agency base in Hanoi, Vietnam."
-  john:
-    name: John
-    display_name: John
+  Tran Xuan Anh:
+    name: Tran Xuan Anh
+    display_name: Tran Xuan Anh
     avatar: "assets/images/avatar.png"
     gravatar: b1cc14991db7a456fcd761680bbc8f81
     email: tranxuananh.cdtk7@gmail.com
