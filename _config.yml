@@ -1,6 +1,7 @@
 # Site
-
-
+name: "Take Time Blog"
+title: "Creative Blog by Take Time Agency"
+description: "Take Time Agency bloggers, Creative Design Agency"
 logo: "assets/images/logo.png"
 favicon: "assets/images/logo.png"
 url: "https://taketimeblog.github.io/"
