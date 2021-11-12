@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
+title: Blog by Take Time Agency
 permalink: /about
 comments: true
 ---
