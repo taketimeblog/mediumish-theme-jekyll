@@ -13,7 +13,7 @@ include: ["_pages"]
 permalink: /:title/
 
 # Authors
-authors: Take Time Agency
+authors: "Take Time Agency"
   sal:
     name: Sal
     display_name: Sal
